@@ -18,3 +18,5 @@ Go to root directory from cmd and type
 ```
 python test.api.py
 ```
+
+## Thank you for the test.
