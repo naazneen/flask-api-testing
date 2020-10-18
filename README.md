@@ -3,6 +3,14 @@
 This is an api to redirect to the payment gateways based on the payment Amount in request.
 
 ## To run the app:
+
+#### Pre-requisite:
+To install requirements for this project, go to cmd and run:
+```
+pip install -r requirements.txt
+```
+
+
 Go to root directory from cmd and type
 ```
 python api.py
